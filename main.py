@@ -1,4 +1,3 @@
-streamlit_Gender Prediction.txt
 import streamlit as st
 import nltk
 from nltk import NaiveBayesClassifier
